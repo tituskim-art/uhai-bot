@@ -1,22 +1,22 @@
-# Uhai WhatsApp Bot 🌱
+# 🌱 Uhai WhatsApp Bot
 
-Uhai is a conversational WhatsApp bot designed to guide youth through life skill challenges and spiritual reflections. Built with Python, Flask, and Twilio, it delivers daily prompts that nurture self-awareness, dignity, and purpose.
+**Uhai** is a WhatsApp bot that delivers life skill challenges and spiritual reflections to youth. Built with Python, Flask, and Twilio, it offers a mobile-first experience designed for dignity, purpose, and growth.
 
-## Features
-- 🌱 Life skill challenges (e.g., gratitude, communication, decision-making)
-- 🕊️ Spiritual stories and reflections
-- 💬 Simple WhatsApp interface
-- 📖 Journaling and personal growth prompts
+## ✨ Features
+- 🌱 Daily life skill challenges
+- 🕊️ Weekly spiritual stories
+- 💬 WhatsApp interface via Twilio
+- 📖 Journaling prompts (coming soon)
+- 🌍 Mobile-first, low-bandwidth design
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Python + Flask
 - Twilio WhatsApp API
-- Railway for deployment
+- Render (for deployment)
+- GitHub (for version control)
 
-## Getting Started
-1. Clone the repo or upload files manually
-2. Set up Twilio sandbox and webhook
-3. Deploy to Railway or any cloud platform
+## 🚀 Getting Started
 
-## License
-This project is open-source and built for community impact.
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/uhai-bot.git
